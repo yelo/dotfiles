@@ -12,10 +12,10 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'chriskempson/base16-vim'
 Plug 'ctrlpvim/ctrlp.vim'
-Plug 'leafgarland/typescript-vim'
-Plug 'quramy/tsuquyomi'
 
 call plug#end()
 
-let base16colorspace=256
+"let base16colorspace=256
 "colorscheme base16-gruvbox-dark-pale
+
+set number
